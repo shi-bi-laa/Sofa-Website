@@ -1,0 +1,11 @@
+nav ul{
+    display: flex;
+   
+}
+nav ul li a{
+    justify-content: space-evenly;
+    color: antiquewhite;
+    text-decoration: none;
+    margin: 10px;
+
+}
